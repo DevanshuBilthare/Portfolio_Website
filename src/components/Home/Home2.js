@@ -2,7 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import myImg from "../../Assets/avatar.svg";
 import Tilt from "react-parallax-tilt";
-import { AiFillGithub } from "react-icons/ai";
+import { AiFillGithub, AiFillMail } from "react-icons/ai";
 import { FaLinkedinIn, FaCode } from "react-icons/fa";
 
 function Home2() {
@@ -77,6 +77,16 @@ function Home2() {
                   className="icon-colour home-social-icons"
                 >
                   <FaCode />
+                </a>
+              </li>
+              <li className="social-icons">
+                <a
+                  href="mailto:devanshubilthare821@gmail.com"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="icon-colour home-social-icons"
+                >
+                  <AiFillMail />
                 </a>
               </li>
             </ul>
