@@ -10,7 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Devanshu Bilthare </span>
             from <span className="purple"> Bhopal, India.</span>
-            <br />I have completed my bachelors in Computer Science for LNCT, BHopal
+            <br />I have completed my bachelors in Computer Science for LNCT, Bhopal
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
