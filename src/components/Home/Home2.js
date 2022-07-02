@@ -23,7 +23,7 @@ function Home2() {
                 <b className="purple"> Javascript and Java. </b>
               </i>
               <br />
-              <br />I design and code beautifully simple things, and 
+              <br />I design and code beautifully simple things, and
               <i>
                 <b className="purple"> I love what I do.</b>
               </i>
@@ -81,7 +81,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="mailto:devanshubilthare821@gmail.com"
+                  href="mailto:devanshubiltharedev@gmail.com"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"

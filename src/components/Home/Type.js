@@ -8,7 +8,7 @@ function Type() {
         strings: [
           "Developer",
           "Problem Solver",
-          "React Lover",
+          "React Lover ❤️",
         ],
         autoStart: true,
         loop: true,
